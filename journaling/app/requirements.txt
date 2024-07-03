@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+passlib
+python-jose
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+passlib[bcrypt]
+python-jose[cryptography]
